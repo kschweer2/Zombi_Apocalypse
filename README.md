@@ -1,2 +1,2 @@
-# Zombi_Apocalypse
-Tutorial on how to survive.
+# Zombi_Apocalypses
+The start to a tutorial on how to survive.
